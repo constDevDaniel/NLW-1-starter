@@ -12,5 +12,4 @@ Com o intuito de ajudar a encontrar e/ou criar pontos de coleta de materiais rec
 
 
 <h4>Status do projeto: concluido:heavy_check_mark:</h4>
-
-Faça bom uso :D :heart:
+<h4Faça bom uso :D :heart:</h4>
