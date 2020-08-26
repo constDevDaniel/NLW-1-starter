@@ -1,8 +1,9 @@
-<h1 align="center" color="rgba(47,184,110)"> Ecoleta </h1>
+<h1> Ecoleta </h1>
+Com o intuito de ajudar a encontrar pontos de coleta de materias recicláveis e lixos eletronicos
 
-<br><h2>How to use this project:</h2></br>
+<br><h2>Como usar este projeto:</h2></br>
 
-1º step: download or clone this project
+ step: download or clone this project
 
 2º: open project on your favorite editor
 
