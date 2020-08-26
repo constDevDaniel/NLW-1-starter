@@ -1,0 +1,14 @@
+{
+    "git.ignoreLimitWarning": true,
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder:NLW starter}/src/database/database.db",
+            "driver": "SQLite",
+            "name": "nlw",
+            "previewLimit": 50
+        }
+    ],
+    "sqltools.useNodeRuntime": true,
+    "liveServer.settings.port": 5501,
+    
+}

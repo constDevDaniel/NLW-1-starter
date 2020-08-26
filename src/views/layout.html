@@ -1,0 +1,29 @@
+{# ARQUIVO DE TEMPLATE, ou seja ele pega o bloco nomeado dos outros HTML do projeto
+onde foi criado os blocos nomeados e joga nos blocos de mesmo nome aqui #}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        {% block title %}{% endblock title %}
+
+        <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu:wght@700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="/styles/main.css">
+        {% block styles %}{% endblock styles %}
+        {# bloco onde ele pega as linha que importam o css home e modal #}
+        <link rel="stylesheet" href="styles/responsive.css">
+
+    </head>
+    <body>
+
+        <div id="{{pageId}}">
+            {# bodyId variavel declarada no index #}
+            {% block content %}{% endblock content %}
+        </div>
+
+        {% block modal %}{% endblock modal %}   {# importando o modal com njk #}
+
+        {% block scripts %}{% endblock scripts %} {# importando js com njk #}
+    </body>
+</html>
