@@ -1,6 +1,6 @@
-# NLW-1-starter
+<h1 align="center" color="rgba(47,184,110)"> Ecoleta </h1>
 
-How to use this project:
+<br><h2>How to use this project:</h2></br>
 
 1º step: download or clone this project
 
@@ -8,7 +8,8 @@ How to use this project:
 
 3º: open your terminal and type it: npm start
 
-4º: open your browser and type it: localhost:3000
+4º: open your browser :earth_americas: and type it: localhost:3000
 
+<p>Project status: successful :heavy_check_mark:</p>
 
-Make good use :D
+Make good use :D :heart:
