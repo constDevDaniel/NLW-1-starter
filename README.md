@@ -1,9 +1,9 @@
 <h1> Ecoleta </h1>
-Com o intuito de ajudar a encontrar pontos de coleta de materias recicláveis e lixos eletronicos
+Com o intuito de ajudar a encontrar e/ou criar pontos de coleta de materiais recicláveis e lixos eletrônicos
 
-<br><h2>Como usar este projeto:</h2></br>
+<h2>Como usar este projeto:</h2>
 
- step: download or clone this project
+<b>1º</b> step: download or clone this project
 
 2º: open project on your favorite editor
 
@@ -11,6 +11,6 @@ Com o intuito de ajudar a encontrar pontos de coleta de materias recicláveis e 
 
 4º: open your browser :earth_americas: and type it: localhost:3000
 
-<p>Project status: successful :heavy_check_mark:</p>
+Project status: successful :heavy_check_mark:
 
 Make good use :D :heart:
