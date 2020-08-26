@@ -3,13 +3,17 @@ Com o intuito de ajudar a encontrar e/ou criar pontos de coleta de materiais rec
 
 <h2>Como usar este projeto:</h2>
 
-<b>1º</b> step: download or clone this project
+
+
+```
+1º step: download or clone this project
 
 2º: open project on your favorite editor
 
 3º: open your terminal and type it: npm start
 
 4º: open your browser :earth_americas: and type it: localhost:3000
+```
 
 Project status: successful :heavy_check_mark:
 
