@@ -14,4 +14,5 @@ Com o intuito de ajudar a encontrar e/ou criar pontos de coleta de materiais rec
 ```
 
 Status do projeto: concluido:heavy_check_mark:
+
 Faça bom uso :D :heart:
