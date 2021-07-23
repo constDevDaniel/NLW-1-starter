@@ -1,5 +1,5 @@
 <h1> Ecoleta :earth_americas: </h1>
-Com o intuito de ajudar a encontrar e/ou criar pontos de coleta de materiais recicláveis e lixos eletrônicos
+Com o intuito de ajudar a encontrar e criar pontos de coleta de materiais recicláveis e lixos eletrônicos
 
 <h2>Como usar este projeto:</h2>
 
