@@ -12,4 +12,4 @@ Com o intuito de ajudar a encontrar e criar pontos de coleta de materiais recicl
 </br>
 
 <h4>Status do projeto: concluido:heavy_check_mark:</h4>
-<h4>Faça bom uso :D :heart:</h4>
+<h4>Faça bom uso :heart:</h4>
